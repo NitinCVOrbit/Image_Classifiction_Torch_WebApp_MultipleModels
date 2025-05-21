@@ -2,8 +2,6 @@
 
 A user-friendly Streamlit web app that allows you to classify images using pretrained models such as **Dog vs Cat** and **Flower Classification**. Built with `PyTorch`, `Streamlit`, and a custom classifier, this app makes real-time image classification simple and interactive.
 
-![App Screenshot](img.jpg)
-
 ---
 
 ## 🚀 Features
